@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1857da80-41af-432a-941c-cfa0b9275d34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/testPackage/SecondPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testPackage/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testPackage/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testPackage/Polar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testPackage/Polar.java" afterDir="false" />
-    </list>
+    <list default="true" id="1857da80-41af-432a-941c-cfa0b9275d34" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/testPackage/Point.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#287#288#0" expanded="true" />
@@ -151,7 +147,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553156001699" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553156589746" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -265,7 +261,7 @@
     <entry file="file://$PROJECT_DIR$/src/testPackage/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#287#288#0" expanded="true" />

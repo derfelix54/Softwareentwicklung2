@@ -7,7 +7,9 @@ public interface Point {
     double EPSILON = 1.E-6;
 
     abstract double getxCoord();
-    abstract double getyCoord();
+    default double getyCoord(){
+        return 0;
+    }
 
     /**
      *
