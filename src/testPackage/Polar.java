@@ -1,7 +1,6 @@
+import testPackage.Point;
 
-
-
-public class Polar implements Point{
+public class Polar implements Point {
 
     private double distance;
     private double angle;
