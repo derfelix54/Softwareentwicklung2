@@ -20,14 +20,14 @@ public class SpacedIntegers extends HashSet<Integer>{
 	}
 	
 	public boolean add(Integer newElement) {
-		ArrayList<Integer> list = new ArrayList<Integer>(set);
-		Collections.sort(list); //sort hash set
+		//ArrayList<Integer> list = new ArrayList<Integer>(set);
+		///Collections.sort(list); //sort hash set
 		boolean value = true;
-		if(list.isEmpty()) {
+		if(this.isEmpty()) {
 			this.add(newElement);
 			value = true;
 		}
-		else if((Math.abs(list.get(0)) - newElement) < minDistance) {
+		else if((Math.abs(/*oldElement*/ - newElement) < minDistance) {
 			value = false;
 		}else {
 			set.add(newElement);
